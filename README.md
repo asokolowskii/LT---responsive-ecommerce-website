@@ -3,15 +3,6 @@
 **LT** is a modern, responsive e-commerce website template designed for online retail businesses. Built with HTML5, CSS3, and JavaScript, it offers a clean and user-friendly interface suitable for showcasing products and facilitating online shopping.
 
 ---
-
-## 🌐 Live Preview
-
-Experience the live demo:
-
-👉 [lt-ecommerce.vercel.app](https://lt-ecommerce.vercel.app)
-
----
-
 ## 📁 Project Structure
 
 ```
