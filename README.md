@@ -3,6 +3,24 @@
 **LT** is a modern, responsive e-commerce website template designed for online retail businesses. Built with HTML5, CSS3, and JavaScript, it offers a clean and user-friendly interface suitable for showcasing products and facilitating online shopping.
 
 ---
+
+## 🖼️ Screenshots
+
+### 🧭 Navigation & Header
+
+![Header](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/header.png)
+
+### 🛒 Product Grid
+
+![Products](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/product1.png)
+
+### 📱 Responsive Design
+
+![Mobile View](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/mobile1.png)
+
+---
+
+---
 ## 📁 Project Structure
 
 ```
