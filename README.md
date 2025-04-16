@@ -4,23 +4,14 @@
 
 ---
 
-## 🖼️ Screenshots
+## 🌐 Live Preview
 
-### 🧭 Navigation & Header
+Experience the live demo:
 
-![Header](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/header.png)
-
-### 🛒 Product Grid
-
-![Products](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/product1.png)
-
-### 📱 Responsive Design
-
-![Mobile View](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/mobile1.png)
+👉 [lt-ecommerce.vercel.app](https://lt-ecommerce.vercel.app)
 
 ---
 
----
 ## 📁 Project Structure
 
 ```
@@ -30,8 +21,13 @@ LT---responsive-ecommerce-website/
 │   └── style.css
 ├── js/
 │   └── script.js
-├── images/
-│   └── [product and UI images]
+├── img/
+│   ├── banner1.jpg
+│   ├── header.png
+│   ├── logo.png
+│   ├── mobile1.png
+│   ├── product1.png
+│   └── sale1.jpg
 └── README.md
 ```
 
@@ -44,6 +40,26 @@ LT---responsive-ecommerce-website/
 - **Navigation Menu**: Easy-to-use navigation bar for seamless browsing.
 - **Interactive Elements**: JavaScript functionalities for dynamic user interactions.
 - **Clean UI/UX**: Minimalistic design focusing on user experience.
+
+---
+
+## 🖼️ Screenshots
+
+### 🧭 Header Section
+
+![Header](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/header.png)
+
+### 🛒 Product Display
+
+![Product](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/product1.png)
+
+### 📱 Mobile Version
+
+![Mobile](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/mobile1.png)
+
+### 🎉 Banner Example
+
+![Banner](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/banner1.jpg)
 
 ---
 
