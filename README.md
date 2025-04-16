@@ -38,19 +38,19 @@ LT---responsive-ecommerce-website/
 
 ### 🧭 Header Section
 
-![Header](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/header.png)
+![Header](https://github.com/asokolowskii/LT---responsive-ecommerce-website/blob/main/img/Zrzut%20ekranu%202025-04-17%20003252.png)
 
 ### 🛒 Product Display
 
-![Product](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/product1.png)
+![Product](https://github.com/asokolowskii/LT---responsive-ecommerce-website/blob/main/img/Zrzut%20ekranu%202025-04-17%20003406.png)
 
 ### 📱 Mobile Version
 
-![Mobile](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/mobile1.png)
+![Mobile](https://github.com/asokolowskii/LT---responsive-ecommerce-website/blob/main/img/Zrzut%20ekranu%202025-04-17%20003424.png)
 
 ### 🎉 Banner Example
 
-![Banner](https://raw.githubusercontent.com/asokolowskii/LT---responsive-ecommerce-website/main/img/banner1.jpg)
+![Banner](https://github.com/asokolowskii/LT---responsive-ecommerce-website/blob/main/img/Zrzut%20ekranu%202025-04-17%20003304.png)
 
 ---
 
